@@ -1,4 +1,6 @@
-# bigdata
+# BigData
+主要介绍学习BigData的相关心得，希望一起进步。
+## Git初始化方法
 echo "# bigdata" >> README.md
 git init
 git add README.md
