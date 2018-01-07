@@ -6,4 +6,4 @@ git init
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/springCkWyy/bigdata.git
-git push -u origin master
+git push -u origin masterneed to add gitignore when commit empty dir
