@@ -1,0 +1,5 @@
+
+1. 
+fetched an invalid config {:config=>"config/file_es.confinput { stdin { type => stdin } }output { stdout { codec => rubydebug } }", :reason=>"Expected one of #, input, filter, output at line 1, column 1 (byte 1) after ", :level=>:error}
+
+命令使用不对: 应该使用 ./bin/logstash -f config/file_es.conf 
