@@ -25,4 +25,6 @@ output {
 
 简单说明:  
 从var/log/message获取日志  
-日志存储在/tmp/123.txt 和 ES索引2个位置  data目录   
+日志存储在/tmp/123.txt 和 ES索引2个位置  data目录  
+ES 索引名称:system-messages-2018.01.07  
+curl POST http://localhost:9200/system-messages-2018.01.07  
