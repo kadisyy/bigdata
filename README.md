@@ -10,3 +10,9 @@ git push -u origin master
 
 补充说明:  
 need to add gitignore when commit empty dir  
+
+
+
+# Git命令速记  
+
+git checkout -- DROPS.md  
